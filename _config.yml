@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: 
+first_name: Haroon Farooq
 middle_name: 
 last_name: Qureshi
-email: 
+email: haroonfq@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -81,6 +81,7 @@ flickr_id: # your flickr id
 github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
+linkedin_id:de.linkedin.com/in/haroon-farooq-qureshi-64a095b
 inspirehep_id: 1010907 # Inspire HEP author ID
 instagram_id: # your instagram id
 kaggle_id: # your kaggle id
@@ -96,7 +97,7 @@ pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+scholar_userid: https://scholar.google.com/citations?user=AQNQOOgAAAAJ #qc6CJjYAAAAJ # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
